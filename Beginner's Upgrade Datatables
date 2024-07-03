@@ -1,0 +1,98 @@
+# Pseudoregalia Upgrade Table 
+
+
+
+This file is meant make modding more accessable for beginners. It contains the in-game IDs for every Mayor upgrade, Minor upgrade and Cosmetic that you can assign in an BP_UpgradeBase to make Sybil able to collect a specific upgrade. This file contains some uncertainties and will be updated in the near future.
+
+
+## Mayor upgrades
+
+Upgrade Name    |  ID Ingame    |   Notes
+
+
+Dream Breaker   | attack        |
+
+Sungreaves      | airKick       |
+
+Basic Slide     | slide         |
+
+Sunsetter       | plunge        |
+
+Cling gem       | wallRide      |
+
+Ascendant Light | light         |
+ 
+Soul Cutter     | projectile    |
+
+Indignation     | powerBoost    |
+
+Solar Wind      | SlideJump     |
+
+Stridebreak     | chargeAttack  |
+
+
+##		Minor upgrades
+
+Upgrade Name    |  ID Ingame    |   Notes
+
+Map             | map           |
+
+Heliacal Power  | extraKick     |
+
+Aerial Finesse  | airRecovery   |
+
+Pilgrimage      | mobileHeal    |
+
+Empathy         | magicHaste    |
+
+Good Graces     | HealBoost	|
+ 
+Martial Prowess | damageBoost   |
+
+
+##		Attire
+
+Upgrade Name    |  ID Ingame    |   Notes
+
+Basic Vest
+
+Sun Greaves
+
+Professional	| outfitPro
+
+Big Pants
+
+Cling Sleeve
+
+Soldier
+
+Guardian        | outfitShoujo
+
+XIX
+
+Sol Sister
+
+Sleepytime      | Sweater
+
+Classy		| outfitClassy
+
+Bleeding Heart  | outfitPast
+
+Not sure which is which:
+
+| outfitChivalry (Knight)
+| outfitJam (Nostalgia)
+| outfitFaith (Devotion)
+
+
+##		Other
+
+Not sure what the debug upgrades do yet.
+
+Upgrade Name    |  ID Ingame    |   Notes
+
+??? debug       | sprint        |
+??? debug       | guard         |
+Heavenly Body   | healthPiece   |
+Clear Mind      | magicPiece    |
+
